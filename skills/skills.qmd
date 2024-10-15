@@ -1,0 +1,151 @@
+---
+title: Skills
+comments: false
+toc: false
+page-layout: full
+format:
+  html: 
+    margin-top: 0em
+    margin-bottom: 0em
+    minimal: true
+    smooth-scroll: true
+    fig-responsive: true
+---
+
+:::: {.panel-tabset}
+
+### Python
+
+:::: {layout="[ 30, 70 ]"}
+
+::: {#first-column}
+![](/assets/img/skills/python.png)
+
+:::
+
+::: {#second-column}
+
+Skilled in using popular **Python** libraries such as ***Pandas, NumPy, Seaborn*** and ***Matplotlib*** for efficient data manipulation and visualization.
+
+Developed predictive models and performing data clustering by leveraging Scikit-learn.
+
+Honed data analytics skills with Python through the Google Data Analytics Certificate, focusing on collecting, analyzing, and interpreting large datasets to drive data-driven decisions.
+
+::: {style="color: orange"}
+
+★★★☆☆
+:::
+
+[Link to course or certificate](/assets/certificates/Coursera_GoogleAdvancedDataAnalytics.pdf)
+:::
+
+::::
+
+### Tableau
+
+:::: {layout="[ 30, 70 ]"}
+
+::: {#first-column}
+![](/assets/img/skills/tableau.png)
+
+:::
+
+::: {#second-column}
+
+Improved **Tableau** skills in creating interactive and visually compelling dashboards to uncover insights from complex datasets.
+
+Skilled in designing dynamic visualizations that highlight key performance indicators (KPIs), trends, and patterns, aiding in data-driven decision-making.
+
+Sample Dashboards:  [Vietnam Insurance Market](https://public.tableau.com/app/profile/tam.pham5379/viz/QuickViewSep2020/QuickViewDB) | [Executive Dashboard](https://public.tableau.com/app/profile/tam.pham5379/viz/EXCO5/Dashboard1) | [Agency Sales Dashboard](https://public.tableau.com/app/profile/tam.pham5379/viz/SalesDashboard_16279817899830/AgencySales)
+
+::: {style="color: orange"}
+
+★★★☆☆ 
+:::
+
+[Link to course or certificate](/assets/certificates/CertificateOfCompletion_Improve_Your_Tableau_Skills.pdf)
+:::
+
+::::
+
+### R
+
+:::: {layout="[ 30, 70 ]"}
+
+::: {#first-col}
+![](/assets/img/skills/r.png)
+
+:::
+
+::: {#second-col}
+
+Skilled in using **R** for statistical analysis, data manipulation, and visualization. Familiar working with libraries such as ***dplyr, ggplot2, tidyr*** and ***Tidymodels*** to efficiently process, analyze, and present data.
+
+Capable of applying **R** for machine learning algorithms, exploratory data analysis, and building reproducible reports, leveraging R Markdown for dynamic documents.
+
+::: {style="color: orange"}
+
+★★★☆☆ 
+:::
+
+[Link to course or certificate](/assets/certificates/CertificateOfCompletion_Master_R_for_DataScience.pdf)
+:::
+
+::::
+
+### SPSS
+
+:::: {layout="[ 30, 70 ]"}
+
+::: {#first-col}
+![](/assets/img/skills/spss.png)
+
+:::
+
+::: {#second-col}
+
+Competent in using **SPSS** for statistical analysis, including data management, descriptive statistics, and basic inferential procedures
+
+Capable leveraging **SPSS** features and functions to analyze, interpret, and present data, facilitating accurate, data-driven decision-making
+
+Take a deep dive into using **SPSS** for Machine Learning and AI projects.
+
+::: {style="color: orange"}
+★★★☆☆ 
+:::
+
+[Link to course or certificate](/assets/certificates/CertificateOfCompletion_Develop_Your_SPSS_Skills.pdf)
+:::
+
+::::
+
+### Data Storytelling
+
+:::: {layout="[ 30, 70 ]"}
+
+::: {#first-col}
+![](/assets/img/skills/storytelling.png)
+
+:::
+
+::: {#second-col}
+
+**Data Analysis**: Skilled in breaking down complex datasets, identifying patterns, trends, and correlations to extract actionable insights.
+
+**Visual Communication**: Capable in crafting compelling data narratives that clearly communicate insights and support decision-making.
+
+Applied **Business Analytics** skills to drive strategic decisions by translating data into impactful business stories, turning data insights into actionable strategies through clear and persuasive storytelling.
+
+::: {style="color: orange"}
+★★★☆☆ 
+:::
+
+[Data Analysis certificate](/assets/certificates/CertificateOfCompletion_Become_a_Data_Analyst.pdf) | [Business Analytics certificate](/assets/certificates/CertificateOfCompletion_Advance_Your_Business_Analytics_Skills.pdf)
+:::
+
+::::
+
+
+
+
+::::

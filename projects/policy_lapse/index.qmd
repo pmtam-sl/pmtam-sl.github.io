@@ -1,0 +1,18 @@
+---
+title: "Insurance Policy Lapsed Prediction"
+date: 2023-04-12
+description: |  
+  This project aims to predict the likelihood of insurance policy lapses based on Policy information, Customer demography.
+  <br>
+  The analysis is conducted using Logistic Regression in <b>SPSS</b> and Tree-based methods from Tidymodels framework in <b>R</b>.
+image: image.png
+categories: [R, SPSS, LR, Tree-based]
+
+links:
+  - icon: fa-solid fa-chalkboard-user 
+    name: Slides
+    url: policy_lapse/Policy_Lapse_Prediction.pdf
+  - icon: fa-solid fa-up-right-from-square
+    name: Blog post
+    url: https://rpubs.com/pmtam/LapsePrediction_Tidymodels
+---

@@ -1,0 +1,17 @@
+---
+title: "Employee Attrition Prediction"
+date: 2024-07-11
+description: |
+  This project utilizes Logistic Regression and Tree-based models in <b>Python</b> to predict employee attrition. 
+  <br>
+  It includes Exploratory Data Analysis, Predictive Analysis, and offers recommendations for improving employee retention.
+image: image.jpg  
+categories: [Python, LR, Tree-based]
+links:
+  - name: Slides
+    url:  employee_attrition/Employee_Attrition_Prediction.pdf
+    icon: fa-solid fa-chalkboard-user
+  - name: Blog post
+    url: https://pmtam.quarto.pub/employee-attrition-prediction/
+    icon: fa-solid fa-up-right-from-square
+---

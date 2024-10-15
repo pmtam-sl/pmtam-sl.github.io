@@ -1,0 +1,16 @@
+---
+title: "Customer Churn Prediction"
+date: 2023-04-28
+description: |
+    This project aims to predict customer churn using **SPSS** Decision Tree and classification algorithms from Tidymodels in **R**.  
+    The goal is to identify customers who are likely to leave the service and understand the factors contributing to churn.
+image: image.jpg  
+categories: [R, SPSS, Logistic Regression, Tree-based]
+links:
+  - name: Slides
+    url: Telco_Customer_Churn_Prediction.pdf
+    icon: chalkboard-user
+  - name: Blog post
+    url: https://rpubs.com/pmtam/CustomerChurn
+    icon: up-right-from-square
+---

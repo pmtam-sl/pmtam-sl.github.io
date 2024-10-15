@@ -1,0 +1,17 @@
+---
+title: "Inferential Analysis"
+#author: "Tam Pham"
+date: "2022-04-07"
+show-date: false
+categories: [Statistics]
+image: "Inferential_Analysis.pdf"
+description: |
+    Inferential analysis is a Statistical approach, used to make predictions or draw conclusions about a larger population based on sample data.
+
+    It involves techniques like hypothesis testing, confidence intervals, and regression analysis to determine how likely it is that observed patterns in the sample reflect true characteristics of the population.
+---
+
+[Download Inferential Analysis PDF](Inferential_Analysis.pdf){.btn .yellow-btn}
+
+<embed src="Inferential_Analysis.pdf" width="100%" height="600px" type="application/pdf">
+

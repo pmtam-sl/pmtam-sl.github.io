@@ -1,0 +1,36 @@
+---
+title: Projects
+comments: false
+toc: false
+page-layout: full
+format:
+  html: 
+    margin-top: 0em
+    margin-bottom: 0em
+    minimal: true
+    smooth-scroll: true
+    fig-responsive: true
+listing:
+  - id: projects
+    template: projects.ejs
+    contents: projects.yml
+# listing:
+#   id: project-listing
+#   contents: 
+#     - "policy_lapse/index.qmd"
+#     - "customer_churn/index.qmd"
+#     - "employee_attrition/index.qmd"
+#     - "customer_segmentation/index.qmd"
+#   sort: "date desc"
+#  type: default
+#  max-items: 4
+#  grid-columns: 4
+#  categories: false
+#  sort-ui: false
+#  filter-ui: false
+#  fields: [image, date, title, description]
+---
+
+This page contains a list of projects that I have explored throughout the learning of Data Analytics and Data Sciences. Please check out.
+
+------------------------------------------------------------------------

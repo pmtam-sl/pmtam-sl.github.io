@@ -1,0 +1,13 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+Thumbs.db
+/public/
+/resources/
+/.quarto/
+
+/.luarc.json
+
+/img/

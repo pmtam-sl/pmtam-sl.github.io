@@ -1,0 +1,14 @@
+---
+title: "Customer Segementation"
+date: 2024-08-16
+description: |
+    This project leverages K-means clustering in <b>Python</b> to segment customers based on behavior and characteristics.
+    <br>
+    The goal is to identify distinct customer groups for more effective targeted marketing strategies.
+image: image.jpg 
+categories: [Python, Clustering]
+links:
+  - name: Blog post
+    url: https://pmtam.quarto.pub/customer-segmentation-with-python/
+    icon: fa-solid fa-up-right-from-square
+---

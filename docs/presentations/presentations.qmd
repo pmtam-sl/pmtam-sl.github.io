@@ -1,0 +1,35 @@
+---
+title: Presentations
+comments: false
+
+listing:
+  id: presentation-listing
+  contents: 
+    - "**/index.qmd"
+  type: grid
+  sort: "date desc"
+  max-items: 4
+  grid-columns: 3
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  fields: [image, date, title, categories, subtitle]
+format:
+  html: 
+    margin-top: 0em
+    margin-bottom: 0em
+    minimal: true
+    smooth-scroll: true
+    fig-responsive: true
+
+toc: false
+page-layout: full
+
+# header-includes: >
+#   <link rel="stylesheet" href="../html/listing-default.css">
+#   <link rel="" href="../assets/custom-css.js"> 
+# resources:
+#   - ../html/listing-default.css
+#   - ../assets/custom-css.js
+---
+

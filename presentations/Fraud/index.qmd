@@ -1,0 +1,17 @@
+---
+title: "Fraud Detection"
+subtitle: "Measuring ROI with Machine Learning"
+#author: "Tam Pham"
+date: "2022-10-27"
+show_date: false
+categories: [Analysis, Machine Learning]
+image: "Fraud_detection.pdf"
+description: |
+    As the number of insurance claims rises, businesses face increased challenges in identifying fraudulent claims. 
+    
+    Machine Learning offers a solution by improving fraud classification, guiding which claims to investigate. This approach enhances detection accuracy and reduces costs, boosting return on investment (ROI) through fewer unnecessary investigations and lower litigation expenses.
+---
+
+[Download Fraud Detection PDF](Fraud_detection.pdf){.btn .yellow-btn}
+
+<embed src="Fraud_detection.pdf" width="100%" height="600px" type="application/pdf">

@@ -1,0 +1,35 @@
+```{=html}
+
+<div class="projects">
+    <% for (const project of items) { %>
+    <div class="project-entry">
+        <div class="metadata">          
+            <p class="date"><%= project.date %></p>
+        </div>
+        <div class="body">
+            <p class="title"><%= project.title %></p>
+            <p class="description"><%= project.description %></p>
+
+            <% if (project.links) { %>
+            <ul class="project-links">
+                <% for (const link of project.links) { %>
+                <li class="project-link">
+                    <% if (link.local) { %>
+                    <a href="<%- project.path.substring(0, project.path.lastIndexOf('/')) %>/<%- link.url %>">
+                    <% } else { %>
+                    <a href="<%- link.url %>">
+                    <% } %>
+                        <i class="<%- link.icon %>"></i> <%= link.name %>
+                    </a>
+                </li>
+                <% } %>
+            <% } %>
+            </ul>
+        </div>
+        <div class="thumbnail">
+            <img src="<%- project.thumbnail %>" class="card-img-top"/>
+        </div>
+    </div>
+    <% } %>
+</div>
+```

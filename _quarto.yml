@@ -1,0 +1,82 @@
+authorname: "Tam Pham"
+draft: false
+
+project:
+  type: website
+  output-dir: docs
+  
+resources:
+    - "assets/**"
+    - "projects/**"
+    - "presentations/**"
+    - "cv/**"
+
+title-meta: "Tam Pham"
+description-meta: "PMO Manager | Transitioning Data Analytics"
+
+website:
+  title: "Tam Pham"
+  description: "Transitioning into Data Analytics"   # A brief slogan (optional)
+  image: assets/img/about/itsME.jpg
+  
+  navbar:
+#   logo: /img/p_icon.png
+    left:
+      - text: Projects
+        href: projects/projects.qmd
+      - text: Presentations
+        href: presentations/presentations.qmd
+      - text: Skills
+        href: skills/skills.qmd
+      - text: CV
+        href: cv/cv.qmd
+
+    right:
+      - icon: linkedin
+        href: https://linkedin.com/in/pmtam
+      - icon: github
+        href: https://github.com/pmtam-sl
+      - icon: envelope
+        aria-label: email
+        href: mailto:pmtam@yahoo.com
+        
+    favicon: img/favicon.ico
+    
+#    twitter-card: 
+#    creator: "@PmtamML"
+#    image: "/img/website_thumbnail.png"
+    
+#  open-graph: 
+#    image: "/img/website_thumbnail.png"
+#    locale: en_US
+    
+#  google-analytics: 
+#    tracking-id: G-xxxxxxx
+#    storage: none
+
+  page-footer: 
+    left: |
+      <span class="faux-block">2024 Tam Pham</span>
+      <span class="faux-block"><a href="https://github.com/pmtam-sl/pmtam-sl.github.io">{{< fa brands github >}} Source Code</a></span>
+    center: |
+      <span class="faux-block"><a href="https://pmtam-sl.github.io/portfolio">Tam Pham</a></span>
+    right: |
+      <span class="faux-block"> Designed with {{< fa heart >}}</span>
+      <span class="faux-block"> Built with <a href="https://quarto.org/">Quarto</a></span>
+    
+format:
+  html:
+#   include-in-header: html/custom_header.html  # Reference to your custom HTML file
+    fontsize: 1.1em
+    theme: 
+      - cosmo
+      - html/styles.scss
+    toc: false
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true
+    highlight-style: monokai
+
+title-block-banner: true
+

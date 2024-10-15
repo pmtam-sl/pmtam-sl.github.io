@@ -1,0 +1,61 @@
+- title: "Insurance Policy Lapsed Prediction"
+  date: 2023-04-12
+  description: |  
+    This project aims to predict the likelihood of insurance policy lapses based on Policy information, Customer demography.
+    <br>
+    The analysis is conducted using Logistic Regression in <b>SPSS</b> and Tree-based methods from Tidymodels framework in <b>R</b>.
+  thumbnail: policy_lapse/image.png
+  categories: [R, SPSS, LR, Tree-based]
+  links:
+  - name: Slides
+    url: policy_lapse/Policy_Lapse_Prediction.pdf
+    icon: fa-solid fa-chalkboard-user
+  - name: Blog post
+    url: https://rpubs.com/pmtam/LapsePrediction_Tidymodels
+    icon: fa-solid fa-up-right-from-square
+
+- title: "Customer Churn Prediction"
+  date: 2023-04-28
+  description: >
+    This project aims to predict customer churn using Decision Tree in <b>SPSS</b> and classification algorithms from Tidymodels in <b>R</b>.
+    <br>
+    The goal is to identify customers who are likely to leave the service and understand the factors contributing to churn."
+  thumbnail: customer_churn/image.jpg  
+  categories: [R, SPSS, LR, Tree-based]
+  links:
+  - name: Slides
+    url: customer_churn/Telco_Customer_Churn_Prediction.pdf
+    icon: fa-solid fa-chalkboard-user
+  - name: Blog post
+    url: https://rpubs.com/pmtam/CustomerChurn
+    icon: fa-solid fa-up-right-from-square
+
+- title: "Employee Attrition Prediction"
+  date: 2024-07-11
+  description: >
+    This project utilizes Logistic Regression and Tree-based models in <b>Python</b> to predict employee attrition. 
+    <br>
+    It includes Exploratory Data Analysis, Predictive Analysis, and offers recommendations for improving employee retention.
+  thumbnail: employee_attrition/image.jpg  
+  categories: [Python, LR, Tree-based]
+  links:
+  - name: Slides
+    url:  employee_attrition/Employee_Attrition_Prediction.pdf
+    icon: fa-solid fa-chalkboard-user
+  - name: Blog post
+    url: https://pmtam.quarto.pub/employee-attrition-prediction/
+    icon: fa-solid fa-up-right-from-square
+
+- title: "Customer Segementation"
+  date: 2024-08-16
+  description: >
+    This project leverages K-means clustering in <b>Python</b> to segment customers based on behavior and characteristics.
+    <br>
+    The goal is to identify distinct customer groups for more effective targeted marketing strategies.
+  thumbnail: customer_segmentation/image.jpg  
+  links:
+  - name: Blog post
+    url: https://pmtam.quarto.pub/customer-segmentation-with-python/
+    icon: fa-solid fa-up-right-from-square
+
+

@@ -1,0 +1,15 @@
+{
+  "hash": "1020fd8a8f4888516b12c6f4aa9b9f72",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Customer Segementation\"\nsubtitle: \"Clustering with Python\"\ndate: \"2024-09-26\"\ncategories: [Python, analysis]\nimage: \"image.jpg\"\n---\n\n\n\n\nThis is a post with executable code.\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

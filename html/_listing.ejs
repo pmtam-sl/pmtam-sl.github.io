@@ -1,0 +1,30 @@
+<div class="project-listing">
+  <% for (const item of listing) { %>
+    <div class="project-card">
+      <!-- Title -->
+      <h3><%= item.title %></h3>
+      
+      <!-- Description -->
+      <p><%= item.description %></p>
+      
+      <!-- Image -->
+      <% if (item.image) { %>
+        <img src="<%= item.image %>" alt="<%= item.title %>" style="height: <%= options.image_height %>;">
+      <% } %>
+      
+      <!-- Date -->
+      <p><strong>Date:</strong> <%= item.date %></p>
+      
+      <!-- Links with Icons -->
+      <div class="project-links">
+        <% if (item.links) { %>
+          <% item.links.forEach(link => { %>
+            <a href="<%= link.url %>" class="project-link">
+              <i class="<%= link.icon %>"></i> <%= link.name %>
+            </a>
+          <% }) %>
+        <% } %>
+      </div>
+    </div>
+  <% } %>
+</div>

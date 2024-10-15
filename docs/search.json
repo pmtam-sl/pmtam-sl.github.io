@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "skills/skills.html",
+    "href": "skills/skills.html",
+    "title": "Skills",
+    "section": "",
+    "text": "PythonTableauRSPSSData Storytelling\n\n\n\n\n\n\n\n\n\n\n\nSkilled in using popular Python libraries such as Pandas, NumPy, Seaborn and Matplotlib for efficient data manipulation and visualization.\nDeveloped predictive models and performing data clustering by leveraging Scikit-learn.\nHoned data analytics skills with Python through the Google Data Analytics Certificate, focusing on collecting, analyzing, and interpreting large datasets to drive data-driven decisions.\n\n★★★☆☆\n\nLink to course or certificate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nImproved Tableau skills in creating interactive and visually compelling dashboards to uncover insights from complex datasets.\nSkilled in designing dynamic visualizations that highlight key performance indicators (KPIs), trends, and patterns, aiding in data-driven decision-making.\nSample Dashboards:  Vietnam Insurance Market | Executive Dashboard | Agency Sales Dashboard\n\n★★★☆☆\n\nLink to course or certificate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSkilled in using R for statistical analysis, data manipulation, and visualization. Familiar working with libraries such as dplyr, ggplot2, tidyr and Tidymodels to efficiently process, analyze, and present data.\nCapable of applying R for machine learning algorithms, exploratory data analysis, and building reproducible reports, leveraging R Markdown for dynamic documents.\n\n★★★☆☆\n\nLink to course or certificate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCompetent in using SPSS for statistical analysis, including data management, descriptive statistics, and basic inferential procedures\nCapable leveraging SPSS features and functions to analyze, interpret, and present data, facilitating accurate, data-driven decision-making\nTake a deep dive into using SPSS for Machine Learning and AI projects.\n\n★★★☆☆\n\nLink to course or certificate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nData Analysis: Skilled in breaking down complex datasets, identifying patterns, trends, and correlations to extract actionable insights.\nVisual Communication: Capable in crafting compelling data narratives that clearly communicate insights and support decision-making.\nApplied Business Analytics skills to drive strategic decisions by translating data into impactful business stories, turning data insights into actionable strategies through clear and persuasive storytelling.\n\n★★★☆☆\n\nData Analysis certificate | Business Analytics certificate"
+  },
+  {
+    "objectID": "presentations/Inferential/index.html",
+    "href": "presentations/Inferential/index.html",
+    "title": "Inferential Analysis",
+    "section": "",
+    "text": "Download Inferential Analysis PDF"
+  },
+  {
+    "objectID": "presentations/OpEx/index.html",
+    "href": "presentations/OpEx/index.html",
+    "title": "Operation Excellence",
+    "section": "",
+    "text": "Download Operation Excellence PDF"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tam Pham",
+    "section": "",
+    "text": "With years of experience in Business Analysis and Project Management, I am now eager to embark on a new journey in Data Analytics. I aim to leverage my expertise in both business and data analytics to uncover insightful data stories that support stakeholders in making informed decisions.\n\n\nI have been actively exploring Data Analytics and Data Science through LinkedIn Learning, Coursera, and various online resources. This learning journey has equipped me with:\n\n\nGeneral Skills: Statistical Analysis, Data Visualization, Data Preparation, Exploratory Data Analysis (EDA), Predictive Analytics (PRA), and Machine Learning\nTechnical Skills: Proficiency in IBM SPSS, R Programming, Python, and Tableau.\nMachine Learning Algorithms: Knowledge of Linear Regression, Logistic Regression, Decision Trees, Random Forest, XGBoost, SVM, k-NN, and K-means Clustering.\n\nThis portfolio showcases my achievements and capabilities as I transition into a Business Analytics professional.\n\nI am excited about the opportunity to work in Data Analytics and look forward to contributing to this dynamic field.\n\n\nTableau LinkedIn GitHub"
+  },
+  {
+    "objectID": "index.html#hi-im-tam",
+    "href": "index.html#hi-im-tam",
+    "title": "Tam Pham",
+    "section": "",
+    "text": "With years of experience in Business Analysis and Project Management, I am now eager to embark on a new journey in Data Analytics. I aim to leverage my expertise in both business and data analytics to uncover insightful data stories that support stakeholders in making informed decisions.\n\n\nI have been actively exploring Data Analytics and Data Science through LinkedIn Learning, Coursera, and various online resources. This learning journey has equipped me with:\n\n\nGeneral Skills: Statistical Analysis, Data Visualization, Data Preparation, Exploratory Data Analysis (EDA), Predictive Analytics (PRA), and Machine Learning\nTechnical Skills: Proficiency in IBM SPSS, R Programming, Python, and Tableau.\nMachine Learning Algorithms: Knowledge of Linear Regression, Logistic Regression, Decision Trees, Random Forest, XGBoost, SVM, k-NN, and K-means Clustering.\n\nThis portfolio showcases my achievements and capabilities as I transition into a Business Analytics professional.\n\nI am excited about the opportunity to work in Data Analytics and look forward to contributing to this dynamic field.\n\n\nTableau LinkedIn GitHub"
+  },
+  {
+    "objectID": "projects/projects.html",
+    "href": "projects/projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This page contains a list of projects that I have explored throughout the learning of Data Analytics and Data Sciences. Please check out.\n\n\n\n\n\n\n\n\n    \n    \n                  \n            Apr 12, 2023\n        \n        \n            Insurance Policy Lapsed Prediction\n            This project aims to predict the likelihood of insurance policy lapses based on Policy information, Customer demography.\n\nThe analysis is conducted using Logistic Regression in SPSS and Tree-based methods from Tidymodels framework in R.\n\n\n            \n            \n                \n                \n                    \n                    \n                    \n                         Slides\n                    \n                \n                \n                \n                    \n                    \n                    \n                         Blog post\n                    \n                \n                \n            \n            \n        \n        \n            \n        \n    \n    \n    \n                  \n            Apr 28, 2023\n        \n        \n            Customer Churn Prediction\n            This project aims to predict customer churn using Decision Tree in SPSS and classification algorithms from Tidymodels in R.  The goal is to identify customers who are likely to leave the service and understand the factors contributing to churn.\"\n\n\n            \n            \n                \n                \n                    \n                    \n                    \n                         Slides\n                    \n                \n                \n                \n                    \n                    \n                    \n                         Blog post\n                    \n                \n                \n            \n            \n        \n        \n            \n        \n    \n    \n    \n                  \n            Jul 11, 2024\n        \n        \n            Employee Attrition Prediction\n            This project utilizes Logistic Regression and Tree-based models in Python to predict employee attrition.   It includes Exploratory Data Analysis, Predictive Analysis, and offers recommendations for improving employee retention.\n\n\n            \n            \n                \n                \n                    \n                    \n                    \n                         Slides\n                    \n                \n                \n                \n                    \n                    \n                    \n                         Blog post\n                    \n                \n                \n            \n            \n        \n        \n            \n        \n    \n    \n    \n                  \n            Aug 16, 2024\n        \n        \n            Customer Segementation\n            This project leverages K-means clustering in Python to segment customers based on behavior and characteristics.  The goal is to identify distinct customer groups for more effective targeted marketing strategies.\n\n\n            \n            \n                \n                \n                    \n                    \n                    \n                         Blog post\n                    \n                \n                \n            \n            \n        \n        \n            \n        \n    \n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "presentations/Fraud/index.html",
+    "href": "presentations/Fraud/index.html",
+    "title": "Fraud Detection",
+    "section": "",
+    "text": "Download Fraud Detection PDF"
+  },
+  {
+    "objectID": "presentations/presentations.html",
+    "href": "presentations/presentations.html",
+    "title": "Presentations",
+    "section": "",
+    "text": "Fraud Detection\n\n\nMeasuring ROI with Machine Learning\n\n\n\nAnalysis\n\n\nMachine Learning\n\n\n\n\nOct 27, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOperation Excellence\n\n\n\nAnalysis\n\n\n\n\nJun 22, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInferential Analysis\n\n\n\nStatistics\n\n\n\n\nApr 7, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "cv/cv.html",
+    "href": "cv/cv.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Download current CV"
+  }
+]
