@@ -46,15 +46,15 @@ website:
     left: |
       <span class="faux-block">2024 Tam Pham</span>
       <span class="faux-block"><a href="https://github.com/pmtam-sl/pmtam-sl.github.io">{{< fa brands github >}} Source Code</a></span>
-    center: |
-      <span class="faux-block"><a href="https://pmtam-sl.github.io/portfolio">Tam Pham</a></span>
+#    center: |
+#      <span class="faux-block"><a href="https://pmtam-sl.github.io/portfolio">Tam Pham</a></span>
     right: |
       <span class="faux-block"> Designed with {{< fa heart >}}</span>
       <span class="faux-block"> Built with <a href="https://quarto.org/">Quarto</a></span>
     
 format:
   html:
-#   include-in-header: html/custom_header.html  # Reference to your custom HTML file
+#   include-in-header: html/custom_header.html  # Reference to custom HTML file
     fontsize: 1.1em
     theme: 
       - cosmo

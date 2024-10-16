@@ -151,7 +151,7 @@ $link-hover-decoration: underline !default;
 
 // Footer
 //$footer-bg: $gray-900 !default;
-$footer-bg: $sl-secondary-50 !default;
+$footer-bg: shift-color($primary, -91%) !default;
 $footer-fg: $sl-secondary-600 !default;
 
 // Inline code
@@ -258,20 +258,6 @@ $btn-code-copy-color-active: $orange !default;
 .text-primary{color:#337ab7}
 a.text-primary:hover,a.text-primary:focus{color:#286090}
 
-//**
-//.primary-blue-button{background-color:#184a58;color:#fff}
-//.primary-yellow-button{background-color:#ffcb05;color:#184a58}
-//
-
-/*
-.btn-primary{color:#fff;background-color:#337ab7;border-color:#2e6da4}
-.btn-primary:focus,.btn-primary.focus{color:#fff;background-color:#286090;border-color:#122b40}
-.btn-primary:hover{color:#fff;background-color:#286090;border-color:#204d74}
-.btn-primary:active,.btn-primary.active,.open>.dropdown-toggle.btn-primary{color:#fff;background-color:#286090;background-image:none;border-color:#204d74}
-.btn-primary:active:hover,.btn-primary.active:hover,.open>.dropdown-toggle.btn-primary:hover,.btn-primary:active:focus,.btn-primary.active:focus,.open>.dropdown-toggle.btn-primary:focus,.btn-primary:active.focus,.btn-primary.active.focus,.open>.dropdown-toggle.btn-primary.focus{color:#fff;background-color:#204d74;border-color:#122b40}
-.btn-primary.disabled:hover,.btn-primary[disabled]:hover,fieldset[disabled] .btn-primary:hover,.btn-primary.disabled:focus,.btn-primary[disabled]:focus,fieldset[disabled] .btn-primary:focus,.btn-primary.disabled.focus,.btn-primary[disabled].focus,fieldset[disabled] .btn-primary.focus{background-color:#337ab7;border-color:#2e6da4}
-.btn-primary .badge{color:#337ab7;background-color:#fff}
-*/
 
 .circle {
     stroke: #f8f9fa;
@@ -291,16 +277,6 @@ a.text-primary:hover,a.text-primary:focus{color:#286090}
       border-color: shift-color($primary, -20%);
     }
 }
-
-// .btn-outline-secondary:hover{color:#fff;background-color:#286090;border-color:#204d74}
-
-// $button-hover-color: $primary;
-
-// .btn-outline-secondary {
-//     --bs-btn-hover-bg: #068194;   /* Use your SCSS variable for primary color */
-//     --bs-btn-hover-color: white;   /* Change hover text color */
-//     --bs-btn-hover-border-color: $button-hover-color;  /* Change hover border color */
-// }
 
 
 .blue-btn{
