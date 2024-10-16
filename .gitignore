@@ -3,11 +3,11 @@
 .RData
 .Ruserdata
 .DS_Store
+.nojekyll
+.gitignore
 Thumbs.db
 /public/
 /resources/
 /.quarto/
 
 /.luarc.json
-
-/img/

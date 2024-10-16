@@ -27,7 +27,7 @@ page-layout: full
 
 # header-includes: >
 #   <link rel="stylesheet" href="../html/listing-default.css">
-#   <link rel="" href="../assets/custom-css.js"> 
+#   <link rel="" href="../html/custom-css.js"> 
 # resources:
 #   - ../html/listing-default.css
 #   - ../assets/custom-css.js
