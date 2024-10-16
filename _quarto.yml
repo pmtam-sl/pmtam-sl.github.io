@@ -40,20 +40,8 @@ website:
         aria-label: email
         href: mailto:pmtam@yahoo.com
         
-    favicon: img/favicon.ico
+#    favicon: img/favicon.ico
     
-#    twitter-card: 
-#    creator: "@PmtamML"
-#    image: "/img/website_thumbnail.png"
-    
-#  open-graph: 
-#    image: "/img/website_thumbnail.png"
-#    locale: en_US
-    
-#  google-analytics: 
-#    tracking-id: G-xxxxxxx
-#    storage: none
-
   page-footer: 
     left: |
       <span class="faux-block">2024 Tam Pham</span>
