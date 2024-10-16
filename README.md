@@ -1,7 +1,7 @@
-# Portfolio website for Tam Pham
+# Portfolio Website for Tam Pham 🎓📊
 
-Hello, and wellcome to the repository of my Portfolio website !
+Hello, and welcome to the repository of my portfolio website! 👋✨
 
-This version of Portfolio is built with Quarto.
-And in here, this is a selected of my Projects and Presentation I have explored durring learning of Data Analytics.
+This version of my portfolio is built with **Quarto** and showcases a selection of my projects and presentations that I have developed throughout my learning journey in **Data Analytics**. 🚀💡
+
 
