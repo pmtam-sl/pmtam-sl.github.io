@@ -3,7 +3,7 @@ title: Presentations
 comments: false
 
 listing:
-  id: presentation-listing
+  id: presentations
   contents: 
     - "**/index.qmd"
   type: grid
@@ -25,11 +25,11 @@ format:
 toc: false
 page-layout: full
 
-# header-includes: >
-#   <link rel="stylesheet" href="../html/listing-default.css">
+header-includes: >
+   <link rel="stylesheet" href="../html/listing-default.css">
 #   <link rel="" href="../html/custom-css.js"> 
-# resources:
-#   - ../html/listing-default.css
+resources:
+   - ../html/listing-default.css
 #   - ../assets/custom-css.js
 ---
 
