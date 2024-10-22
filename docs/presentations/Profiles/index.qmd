@@ -1,0 +1,16 @@
+---
+title: "Profiles of Data Professionals"
+#author: "Tam Pham"
+date: "2022-12-12"
+show_date: false
+categories: [Research]
+image: "Profiles_of_data professionals.pdf"
+description: |
+    In today’s data-driven world, the role of data professionals has become increasingly vital across various industries. 
+    
+    This PowerPoint presentation highlights five exemplary profiles of data professionals who exemplify the skills, knowledge, and expertise required to thrive in the field of data analytics and data science.
+---
+
+[Download Profiles of data professionals PDF](Profiles_of_data professionals.pdf){.btn .yellow-btn}
+
+<embed src="Profiles_of_data professionals.pdf" width="100%" height="600px" type="application/pdf">

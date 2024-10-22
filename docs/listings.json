@@ -6,6 +6,7 @@
   {
     "listing": "/presentations/presentations.html",
     "items": [
+      "/presentations/Profiles/index.html",
       "/presentations/Fraud/index.html",
       "/presentations/OpEx/index.html",
       "/presentations/Inferential/index.html"
